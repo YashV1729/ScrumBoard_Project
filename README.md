@@ -6,12 +6,3 @@ This is a Scrumboard project but a very simplified version of Trello using React
 For a live demo of the project have a look at https://trello-board-b720f.firebaseapp.com
 
  
- 
-- Install npm
-```
-$ npm install
-```
-- Run
-```
-$ npm run start
-```
